@@ -1,0 +1,14 @@
+{
+    "5986ae82-cc18-4411-9c56-a662c8a923f2" : {
+        "description" : "Place it down to disalbe gravity. Remove all ducks and rejoin to re-enable it.",
+        "title" : "Anti-Gravity Duck"
+    },
+    "a015c72e-118c-4a00-80c6-a64d22da8a0c" : {
+        "description" : "Like an explosive, but more powerful. Won't be triggered by collisions.",
+        "title" : "Boom Duck"
+    },
+    "d11863e3-6a8c-466f-aa98-303adf93e6ee" : {
+        "description" : "Paints the entire creation in its color.",
+        "title" : "Paint Duck"
+    }
+}

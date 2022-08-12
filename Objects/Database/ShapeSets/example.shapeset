@@ -1,0 +1,55 @@
+{
+   "partList" : [
+      {
+         "box" : {
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "color" : "000069",
+         "name" : "Anti-Gravity Duck",
+         "physicsMaterial" : "Default",
+         "renderable" : "$GAME_DATA/Objects/Renderable/decor/obj_decor_babyduck.rend",
+         "rotationSet" : "Default",
+         "scripted" : {
+            "classname" : "AntiGravity",
+            "filename" : "$CONTENT_DATA/Scripts/AntiGravity.lua"
+         },
+         "uuid" : "5986ae82-cc18-4411-9c56-a662c8a923f2"
+      },
+      {
+         "box" : {
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "color" : "FF0000",
+         "name" : "Boom Duck",
+         "physicsMaterial" : "Default",
+         "renderable" : "$GAME_DATA/Objects/Renderable/decor/obj_decor_babyduck.rend",
+         "rotationSet" : "Default",
+         "scripted" : {
+            "classname" : "BoomDuck",
+            "filename" : "$CONTENT_DATA/Scripts/BoomDuck.lua"
+         },
+         "uuid" : "a015c72e-118c-4a00-80c6-a64d22da8a0c"
+      },
+      {
+         "box" : {
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "color" : "FFFFFF",
+         "name" : "Paint Duck",
+         "physicsMaterial" : "Default",
+         "renderable" : "$GAME_DATA/Objects/Renderable/decor/obj_decor_babyduck.rend",
+         "rotationSet" : "Default",
+         "scripted" : {
+            "classname" : "PaintDuck",
+            "filename" : "$CONTENT_DATA/Scripts/PaintDuck.lua"
+         },
+         "uuid" : "d11863e3-6a8c-466f-aa98-303adf93e6ee"
+      }
+   ]
+}
